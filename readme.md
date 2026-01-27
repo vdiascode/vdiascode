@@ -4,7 +4,7 @@
 
 <body> 
 <div width="100%">
-  <h3>Olá, Meu nome é Vinicius Dias, tenho 19 anos e atualmente sou estudante de programação, buscando desenvolver minhas habilidades como front-end e back-end.</h3>
+  <h3>Olá, Meu nome é Vinicius Dias, tenho 19 anos, e atualmente estou estudando programação, buscando desenvolver minhas habilidades como front-end e back-end.</h3>
   <ul>
   <li>😄 Cursando Desenvolvimento Full Stack pelo Projeto Desenvolve | UFMG </li>
   <li>🎓 Cursando Engenharia de Software </li>
